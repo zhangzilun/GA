@@ -1,1 +1,1 @@
-
+My idea is to make the model do different operations by clicking different buttons. Download it from blender in the format of glFT and add it to vscode. By compiling the file in the shader and adding the code of the light and debugging the color of the light, some materials will be applied to the light, and the phenomenon (such as a badge) will be generated through the light. Finally, buttons are added to move and change the corresponding model by clicking on different buttons.
